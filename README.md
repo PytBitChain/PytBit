@@ -40,9 +40,3 @@ Welcome to PytBit, where Python meets blockchain in a revolutionary way. The Pyt
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## Contact
-
-For more information, please reach out to us at [Contact Information].
-
-Join us in redefining the blockchain landscape with PytBit!
