@@ -246,7 +246,7 @@ In PytBit, mining transcends computational tasks, evolving into a pledge to upho
 Every line of code, every module, and every function within PytBit is more than just a part of a blockchain; it's a part of a community, a collective of innovators and users who are not merely participants but the very fabric of the PytBit tapestry. Here, technology and community intertwine, crafting not just a decentralized blockchain but propelling a movement towards a more inclusive, innovative, and secure digital future.
 
 
-![Token Distribution](./images/File_Graph.png)
+![Token Distribution](Graph.png)
 
 
 # Technical Architecture and Projections
@@ -278,14 +278,14 @@ The initial supply of PytBit tokens is judiciously allocated across various sect
 
 Let's visualize this allocation with a pie chart for a clearer understanding.
 
-![Token Distribution](./images/token_distribution.png)
+![Token Distribution](token_distribution.png)
 
 
 # Embarking on a Journey with PytBit
 
 Embarking on a journey with PytBit means becoming a part of a community that values transparency, inclusiveness, and innovation. Our tokenomics is not just a model; it's a testament to our commitment to creating a blockchain ecosystem that is sustainable, equitable, and poised for growth and development in the years to come.
 
-![Description of Graph1](images/Graph1.png)
+![Description of Graph1](Graph1.png)
 
 ### Explanation:
 
@@ -309,7 +309,7 @@ In this pessimistic scenario, we've considered several factors:
    - The subsequent halvings and burns, combined with the growing trust in PytBit's ecosystem, result in a steady increase in value. 
    - The token's role as a contract and its adoption in various sectors further solidify its position in the market.
 
-![Description of Graph1](images/Graph1.png)
+![Description of Graph1](Graph1.png)
 
 This scenario demonstrates that even in less-than-ideal market conditions, PytBit's inherent strategies and features ensure its growth and stability. The token's multifaceted utility, combined with the project's adaptability, makes it resilient against market downturns.
 .png)
@@ -318,7 +318,7 @@ This scenario demonstrates that even in less-than-ideal market conditions, PytBi
 
 Considering the initial supply, mint rate, and burn rate, let's project the growth of the PytBit token supply over time. The mint rate will contribute to an increase in supply, while the burn rate, applied at each BTC halving event, will decrease it.
 
-![Description of Graph1](images/Graph2.png)
+![Description of Graph1](Graph2.png)
 
 ### Explanation:
 
@@ -480,7 +480,7 @@ We are diligently working on mechanisms to prevent exploitation of the reward sy
 - **Airdrop**: 5% of the total supply
 - **Advisors**: 5% of the total supply
 
-![Description of Graph1](images/Speculative_Model.png)
+![Description of Graph1](Speculative_Model.png)
 
 ## Speculative Model Explanation
 
@@ -586,7 +586,7 @@ Solutions might involve:
 - **Strategic Burning:** Implementing token burns in a manner that is reflective of the token’s circulation, usage, and overall market conditions.
 - **Community Involvement:** Allowing the community to have a say in future tokenomic adjustments through the DAO, ensuring that changes are representative and beneficial to the wider user base.
 
-![Tokenomics Sustainability](images/Speculative_Model.png)
+![Tokenomics Sustainability](Speculative_Model.png)
 
 ## Security and Compliance
 
@@ -622,17 +622,6 @@ In the ever-evolving landscape of global regulations, PytBit is not merely compl
 
 In PytBit, security and compliance are not mere facets but foundational pillars, ensuring that the platform is not only a beacon of innovation but also a bastion of safety and a navigator of global compliance. It is where the innovative spirit of decentralization melds seamlessly with the prudence of security and the wisdom of compliance, ensuring that PytBit is not merely a blockchain but a secure, compliant, and trustworthy ecosystem.
 
-# Unique Tokens: Originating from BTC Blocks
 
-PytBit tokens are not arbitrarily minted. Each token traces its lineage to a Bitcoin block, providing a tangible and historical connection to the very roots of the cryptocurrency revolution. Every PytBit token is not just a unit of value but a fragment of blockchain history, making it intrinsically valuable and historically significant.
 
-## 1. Introduction
-
-Welcome to the dawn of a new era in the blockchain universe - **PytBit**, a platform where innovation, inclusiveness, and sustainability converge to forge a unique and revolutionary blockchain. In a world where technology often comes at the expense of complexity and high energy consumption, PytBit emerges as a beacon of simplicity, power, and eco-friendliness, all thanks to the unparalleled flexibility of Python.
-
-PytBit is not merely a blockchain; it is a meticulously crafted ecosystem that intertwines the robustness of blockchain technology with the versatility of Python, aiming to break down the barriers to blockchain adoption and create a space where everyone, from novice developers to blockchain experts, can come together to create, innovate, and revolutionize.
-
-Our mission is clear: to pave the way for a new chapter in blockchain technology, where every token tells a story, every user has a voice, and every transaction is a step towards a more sustainable and inclusive digital future. PytBit is not just a technology; it's a movement, a community, and a platform where every interaction, transaction, and token is a step towards reshaping the digital world.
-
-Join us in crafting a future where blockchain is not just secure and decentralized but also accessible, innovative, and sustainable. Welcome to PytBit - the next frontier in the blockchain revolution.
 
