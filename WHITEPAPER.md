@@ -246,7 +246,7 @@ In PytBit, mining transcends computational tasks, evolving into a pledge to upho
 Every line of code, every module, and every function within PytBit is more than just a part of a blockchain; it's a part of a community, a collective of innovators and users who are not merely participants but the very fabric of the PytBit tapestry. Here, technology and community intertwine, crafting not just a decentralized blockchain but propelling a movement towards a more inclusive, innovative, and secure digital future.
 
 
-![Token Distribution](Graph.png)
+![Files and contracts](File_Graph.png)
 
 
 # Technical Architecture and Projections
@@ -586,7 +586,7 @@ Solutions might involve:
 - **Strategic Burning:** Implementing token burns in a manner that is reflective of the token’s circulation, usage, and overall market conditions.
 - **Community Involvement:** Allowing the community to have a say in future tokenomic adjustments through the DAO, ensuring that changes are representative and beneficial to the wider user base.
 
-![Tokenomics Sustainability](Speculative_Model.png)
+![Tokenomics Sustainability](Speculative_Value_Supply.png)
 
 ## Security and Compliance
 
